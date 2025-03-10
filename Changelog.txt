@@ -1,0 +1,114 @@
+
+░██████╗░█████╗░██████╗░██╗░█████╗░░█████╗░███╗░░██╗████████╗░█████╗░██╗███╗░░██╗███╗░░░███╗███████╗███╗░░██╗████████╗
+██╔════╝██╔══██╗██╔══██╗╚═╝██╔══██╗██╔══██╗████╗░██║╚══██╔══╝██╔══██╗██║████╗░██║████╗░████║██╔════╝████╗░██║╚══██╔══╝
+╚█████╗░██║░░╚═╝██████╔╝░░░██║░░╚═╝██║░░██║██╔██╗██║░░░██║░░░███████║██║██╔██╗██║██╔████╔██║█████╗░░██╔██╗██║░░░██║░░░
+░╚═══██╗██║░░██╗██╔═══╝░░░░██║░░██╗██║░░██║██║╚████║░░░██║░░░██╔══██║██║██║╚████║██║╚██╔╝██║██╔══╝░░██║╚████║░░░██║░░░
+██████╔╝╚█████╔╝██║░░░░░██╗╚█████╔╝╚█████╔╝██║░╚███║░░░██║░░░██║░░██║██║██║░╚███║██║░╚═╝░██║███████╗██║░╚███║░░░██║░░░
+╚═════╝░░╚════╝░╚═╝░░░░░╚═╝░╚════╝░░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝░░░╚═╝░░░
+
+██████╗░██████╗░███████╗░█████╗░░█████╗░██╗░░██╗  ██╗░░░░░░█████╗░░██████╗████████╗
+██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██║░░██║  ██║░░░░░██╔══██╗██╔════╝╚══██╔══╝
+██████╦╝██████╔╝█████╗░░███████║██║░░╚═╝███████║  ██║░░░░░██║░░██║╚█████╗░░░░██║░░░
+██╔══██╗██╔══██╗██╔══╝░░██╔══██║██║░░██╗██╔══██║  ██║░░░░░██║░░██║░╚═══██╗░░░██║░░░
+██████╦╝██║░░██║███████╗██║░░██║╚█████╔╝██║░░██║  ███████╗╚█████╔╝██████╔╝░░░██║░░░
+╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝  ╚══════╝░╚════╝░╚═════╝░░░░╚═╝░░░
+
+███████╗░█████╗░░█████╗░██╗██╗░░░░░██╗████████╗██╗░░░██╗
+██╔════╝██╔══██╗██╔══██╗██║██║░░░░░██║╚══██╔══╝╚██╗░██╔╝
+█████╗░░███████║██║░░╚═╝██║██║░░░░░██║░░░██║░░░░╚████╔╝░
+██╔══╝░░██╔══██║██║░░██╗██║██║░░░░░██║░░░██║░░░░░╚██╔╝░░
+██║░░░░░██║░░██║╚█████╔╝██║███████╗██║░░░██║░░░░░░██║░░░
+╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝╚══════╝╚═╝░░░╚═╝░░░░░░╚═╝░░░
+
+▄█ ▄█ ░ █▀█   █░░ █▀▀ ▀█   █▀█ █░█ █▀▀ █▀█ █░█ ▄▀█ █░█ █░░   █▀█ ▄▀█ █▀█ ▀█▀   ▄█
+░█ ░█ ▄ █▄█   █▄▄ █▄▄ █▄   █▄█ ▀▄▀ ██▄ █▀▄ █▀█ █▀█ █▄█ █▄▄   █▀▀ █▀█ █▀▄ ░█░   ░█
+
+General Changes
+Updated the entire mod to SCP:Containment Breach Ultimate Edition 1.4 (CHECK OUT SCP:CONTAINMENT BREACH ULTIMATE EDITION IF YOU HAVEN'T ALREADY!)
+Reverted a lot of changes from previous versions.
+Changed all document styles.
+Changed a ton of map textures.
+Added a ton of map textures.
+Changed the anomalous item log document. (Document re-written by SPOOKYFellow)
+Improved and slightly changed the SCP-012 scribe.
+Changed some blood decals.
+Fixed a crash revolving an SCP-939 file.
+
+SCP-939 Changes
+* SCP-939's texture has been changed.
+* SCP-939 is now faster.
+
+SCP-173 Changes
+* SCP-173 has gotten quite old.. The sculpture is slowly falling apart..
+* SCP-173 is now slightly faster.
+* SCP-173's texture has been changed.
+* SCP-173's model has been changed.
+* Updated SCP-173's document.
+* Updated SCP-173's label.
+
+SCP-106 Changes
+* SCP-106's texture has been changed to the old CB one.
+* SCP-106's eyes should glow a bit more now.
+* SCP-106 is now faster.
+
+SCP-049 Changes
+* SCP-049's voice filter has been improved. (Should be able to understand what he's saying now)
+* SCP-049's eyes are now fully light blue and glowing.
+
+SFX Changes
+* Added new voice for Agent Ulgrin (The first guard at the intro sequence)!
+Voice acting done by Bunni.
+* Changed all Alarm Sounds.
+* Replaced some ambient sounds.
+* Changed the LCZ door sounds.
+* Made SCP-173's Stone Drag sound louder.
+* Changed SCP-106's chase theme. (Music by Resonant Tonality on YouTube.)
+* Changed the SCP-939 Storage ambience.
+* Changed the SCP-914 Room ambience.
+* Changed the Credits Music. (Music by Camelidea)
+* Added Music for the MTF Spawn Announcement. (Music by Camelidea)
+
+Menu Changes
+* Overhauled the Main Menu.
+* Overhauled the Launcher.
+* Overhauled the Pause Menu.
+* Changed the bottom corner image of SCP-173 to the newly updated one.
+* Changed the loading screen image of SCP-173 to the newly updated one.
+
+======================
+Light Containment Zone
+======================
+
+Closets Room
+* Added a cafeteria.
+
+SCP-005
+* Added an observation room.
+
+SCP-939 Storage Room
+* Added a third hallway to the fallen pipe area loop.
+* Removed some boxes in the lever area at the box loop.
+* Completely re-designed the upper and lower area.
+* Added SCP-939 label.
+
+======================
+Heavy Containment Zone
+======================
+Most rooms have received small texture changes to differinciate them from the other rooms, in my experience I kept getting confused with the SCP-079 and SCP-106 elevators because they looked so similar.
+
+SCP-008
+* Changed the textures of the upper area.
+
+SCP-049
+* Changed the textures of the upper area.
+* Replaced the boring label with the normal one at the upper area.
+
+SCP-079
+* Changed the textures of the upper and lower area.
+* Changed the textures of the fence around SCP-079.
+* Replaced the boring label with the normal one at the upper area.
+
+SCP-106
+* Changed the textures of the upper area.
+
+Honestly I was gonna write all the rooms I've changed but there's too many to genuinely write and I don't remember many of them.
